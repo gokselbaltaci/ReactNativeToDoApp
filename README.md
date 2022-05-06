@@ -1,6 +1,4 @@
-# PatikaStore
+![TodoApp](https://i.hizliresim.com/2jj772s.png)
+![TodoApp2](https://i.hizliresim.com/6sa71bl.png)
 
-"Patika.dev" React-Native tutorial is the first exercise.
-
-![patikastore2](https://i.hizliresim.com/npi7w9h.png)
-![patikastore1](https://i.hizliresim.com/4u4z8c1.png)
+Patika.dev
