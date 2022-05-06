@@ -1,4 +1,12 @@
-{
-  "name": "todo",
-  "displayName": "todo"
-}
+[
+  {
+    "id": 1,
+    "name": "Eklemelerini yapabilirsin",
+    "isDone": false
+  },
+  {
+    "id": 2,
+    "name": "Alışveriş yapılacak",
+    "isDone": true
+  }
+]
